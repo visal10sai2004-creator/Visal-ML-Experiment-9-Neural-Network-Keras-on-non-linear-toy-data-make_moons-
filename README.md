@@ -8,6 +8,10 @@ Train a small feedforward neural network to classify non-linear data.
 
 Two-layer dense network with ReLU hidden units and sigmoid output, trained with Adam.
 
+## ALGORITHM:
+
+Two-layer dense network with ReLU hidden units and sigmoid output, trained with Adam.
+
 ## PROGRAM:
 
 ```
